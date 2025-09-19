@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Kevin Du's First CS193 Homework
 
-1. BTS - Mic Drop
-2. Jhope - Mona Lisa
+- BTS - Mic Drop
+- Jhope - Mona Lisa
 
 **Bold** and _Italic_ and `Code` text
 
